@@ -1,0 +1,1 @@
+# powershell scripting to understand IT roles, and potentially use in personal projects or personal automation
